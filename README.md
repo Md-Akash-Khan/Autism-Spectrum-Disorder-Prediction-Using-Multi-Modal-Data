@@ -1,4 +1,4 @@
-# an ensemble framework for Autism Spectrum Disorder prediction using multi-modal data.
+# An ensemble framework for Autism Spectrum Disorder prediction using multi-modal data.
 
 ### 📌 Project Highlights
 - **Project Type:** Machine Learning Lab Course Project  
