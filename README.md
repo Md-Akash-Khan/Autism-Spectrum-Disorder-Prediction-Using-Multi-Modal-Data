@@ -78,3 +78,7 @@ Our novel **stacking ensemble model (GENZ-Contrib)** consistently outperformed t
 ---
 
 ## 🏗️ Repository Structure
+      ├── ASDF.ipynb # Main Jupyter notebook (Google Colab code)
+      ├── Datasets/ # ASD datasets (Children, Adolescents, Adults)
+      ├── Project Paper/ # Research paper PDF
+      └── README.md # Project documentation
