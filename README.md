@@ -82,3 +82,9 @@ Our novel **stacking ensemble model (GENZ-Contrib)** consistently outperformed t
       ├── Datasets/ # ASD datasets (Children, Adolescents, Adults)
       ├── Project Paper/ # Research paper PDF
       └── README.md # Project documentation
+
+---
+
+## 📖 References
+Full references and background studies are included in the attached project paper (see `Project Paper/`).
+
